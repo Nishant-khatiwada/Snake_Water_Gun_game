@@ -1,4 +1,4 @@
-#Snake, Water, Gun Game
+                                #Snake, Water, Gun Game
 This is a simple text-based game implemented in Python where you play the "Snake, Water, Gun" game against the computer. The game allows you to play up to three rounds and keeps track of your score and the computer's score.
 
 How to Play
